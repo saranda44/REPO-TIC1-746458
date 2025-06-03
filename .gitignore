@@ -1,0 +1,2 @@
+#ignoramos archivos de log en la raiz
+/log_prueba.txt
